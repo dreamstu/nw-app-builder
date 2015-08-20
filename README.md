@@ -3,4 +3,4 @@
 ----
 
 # how to run
-just run `grunt`
+just run `npm install & grunt`
